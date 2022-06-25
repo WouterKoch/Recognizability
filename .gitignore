@@ -1,0 +1,15 @@
+.env
+
+*/__pycache__
+
+Manuscript/*.aux
+Manuscript/*.bbl
+Manuscript/*.bcf
+Manuscript/*.blg
+Manuscript/*.bst
+Manuscript/*.fdb_latexmk
+Manuscript/*.fls
+Manuscript/*.log
+Manuscript/*.out
+Manuscript/*.xml
+Manuscript/*.gz
