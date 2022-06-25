@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/507292270.svg)](https://zenodo.org/badge/latestdoi/507292270)
+
 # Recognizability bias in citizen science photographs
 
 Code, data and manuscript files accompanying the manuscript "Recognizability bias in citizen science photographs".
