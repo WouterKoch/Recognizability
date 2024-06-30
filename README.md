@@ -1,3 +1,4 @@
+[![DOI RSOS](https://img.shields.io/badge/Royal%20Soc.%20Open%20Science-10.1098/rsos.221063-BD3094)](https://doi.org/10.1098/rsos.221063)
 [![DOI](https://zenodo.org/badge/507292270.svg)](https://zenodo.org/badge/latestdoi/507292270)
 
 # Recognizability bias in citizen science photographs
